@@ -100,4 +100,3 @@ erDiagram
     EMPLOYEE ||--o{ EMPLOYEE_PROJECT : works on
     PROJECT ||--o{ EMPLOYEE_PROJECT : includes
 
-Git hub repository name should be C113310-Employee-Management-System
