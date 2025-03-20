@@ -103,4 +103,63 @@ Employee-Management-System/
 - DELETE /api/projects/{id} - Delete project
 
 ## Frontend Applications
-[Coming next...]
+
+### Angular Frontend (Employee & Department Management)
+1. Start the application:
+   ```bash
+   cd frontend/angular-app-c113310
+   npm install
+   ng serve
+   # Application available at http://localhost:4200
+   ```
+
+2. Features:
+   - Employee Management
+     - List view with Material table
+     - Create/Edit employee forms
+     - Delete employee with confirmation
+     - Department selection integration
+   - Department Management
+     - List view with Material table
+     - Create/Edit department forms
+     - Delete department with confirmation
+   - Material Design UI
+   - Responsive layout
+   - Type-safe API integration
+
+### React Frontend (Project Management)
+1. Start the application:
+   ```bash
+   cd frontend/react-app-c113310
+   npm install
+   npm start
+   # Application available at http://localhost:3000
+   ```
+
+2. Features:
+   - Project Management
+     - List all projects
+     - Create new projects
+     - Edit existing projects
+     - Delete projects with confirmation
+     - Date handling for start/end dates
+   - Material-UI components
+   - Responsive design
+   - TypeScript integration
+
+## Technology Stack
+- Backend:
+  - ASP.NET Core 8.0 with Entity Framework Core
+  - Spring Boot 3.2.3 with Spring Data JPA
+  - SQL Server & MySQL databases
+- Frontend:
+  - Angular 19 with Material UI
+  - React 18 with Material-UI
+  - TypeScript
+  - RxJS (Angular)
+  - Axios (React)
+
+## Authors
+- Mahesh Jayasuriya
+- Student ID: C113310
+- Date: March 2025
