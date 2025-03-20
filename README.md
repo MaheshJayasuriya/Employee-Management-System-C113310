@@ -33,9 +33,9 @@ Employee-Management-System/
 - Spring Boot API (Departments & Projects) - Completed
 - Database Setup - Completed
 
-🚧 Frontend (In Progress):
-- Angular App: In Progress
-- React App: Not started
+✅ Frontend:
+- Angular App: Completed
+- React App: Completed
 
 ## Next Steps
 1. Angular Frontend:
