@@ -34,7 +34,7 @@ Employee-Management-System/
 - Database Setup - Completed
 
 🚧 Frontend (In Progress):
-- Angular App: Not started
+- Angular App: In Progress
 - React App: Not started
 
 ## Next Steps
