@@ -62,7 +62,7 @@ Employee-Management-System/
 ## Backend Setup
 
 ### ASP.NET Core API
-1. Open project in Visual Studio and Run
+1. Open project (EmployeeManagement.Api.sln) in Visual Studio and Run
    
     or
 
