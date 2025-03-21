@@ -64,10 +64,10 @@ Employee-Management-System/
 ### ASP.NET Core API
 1. Open project in Visual Studio and Run
    
-or
+    or
 
-3. Navigate to backend/dotnet-api
-4. Run the following commands:
+2. Navigate to backend/dotnet-api
+3. Run the following commands:
    ```
    dotnet restore
    dotnet build
@@ -75,8 +75,8 @@ or
    ```
 after executing run command
 
-4. API will be available at https://localhost:55115
-5. Swagger UI available at https://localhost:55115/swagger
+1. API will be available at https://localhost:55115
+2. Swagger UI available at https://localhost:55115/swagger
 
 ### Spring Boot API
 1. Navigate to backend/spring-api
