@@ -62,15 +62,18 @@ Employee-Management-System/
 ## Backend Setup
 
 ### ASP.NET Core API
-1. Navigate to backend/dotnet-api
-2. Run the following commands:
+1. Open project in Visual Studio and Run
+or
+2. Navigate to backend/dotnet-api
+3. Run the following commands:
    ```
    dotnet restore
    dotnet build
    dotnet run
    ```
-3. API will be available at https://localhost:55115
-4. Swagger UI available at https://localhost:55115/swagger
+after run
+4. API will be available at https://localhost:55115
+5. Swagger UI available at https://localhost:55115/swagger
 
 ### Spring Boot API
 1. Navigate to backend/spring-api
