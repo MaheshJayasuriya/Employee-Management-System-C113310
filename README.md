@@ -55,7 +55,7 @@ Employee-Management-System/
    - Run `database/mssql_sample_data.sql`
 
 2. MySQL (Department & Project Database):
-   - Connect to localhost:3307 with password 'aa803'
+   - Connect to localhost:3307 with password 'your mysql password'
    - Run `database/mysql_setup.sql`
    - Run `database/mysql_sample_data.sql`
 
