@@ -71,7 +71,8 @@ or
    dotnet build
    dotnet run
    ```
-after run
+after executing run command
+
 4. API will be available at https://localhost:55115
 5. Swagger UI available at https://localhost:55115/swagger
 
