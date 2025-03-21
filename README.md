@@ -9,8 +9,8 @@ Employee-Management-System/
 │   ├── dotnet-api/       # ASP.NET Core Web API (Employee Management)
 │   └── spring-api/       # Spring Boot API (Department & Project Management)
 ├── frontend/
-│   ├── angular-app/      # Angular frontend
-│   └── react-app/        # React frontend
+│   ├── angular-app-c11310/      # Angular frontend
+│   └── react-app-c113310/        # React frontend
 └── database/            # Database scripts
     ├── mssql_setup.sql
     ├── mssql_sample_data.sql
@@ -63,9 +63,11 @@ Employee-Management-System/
 
 ### ASP.NET Core API
 1. Open project in Visual Studio and Run
+   
 or
-2. Navigate to backend/dotnet-api
-3. Run the following commands:
+
+3. Navigate to backend/dotnet-api
+4. Run the following commands:
    ```
    dotnet restore
    dotnet build
