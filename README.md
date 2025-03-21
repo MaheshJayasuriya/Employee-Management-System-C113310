@@ -66,8 +66,8 @@ Employee-Management-System/
    
     or
 
-2. Navigate to backend/dotnet-api
-3. Run the following commands:
+1. Navigate to backend/dotnet-api
+2. Run the following commands:
    ```
    dotnet restore
    dotnet build
