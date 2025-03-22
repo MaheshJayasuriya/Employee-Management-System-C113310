@@ -4,7 +4,7 @@
 ### Student Information
 - **Name:** Mahesh Jayasuriya
 - **Student ID:** C113310
-- **Date:** March 2025
+- **Date:** 20 March 2025
 - **GitHub Repository:** https://github.com/[username]/C113310-Employee-Management-System
 
 ### Project Overview
